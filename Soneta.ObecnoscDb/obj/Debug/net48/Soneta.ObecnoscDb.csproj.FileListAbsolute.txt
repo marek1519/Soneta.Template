@@ -1,0 +1,9 @@
+D:\MAREK\C#\Soneta.ObecnoscDb\Soneta.Template\obj\Debug\net48\Soneta.ObecnoscDb.csproj.AssemblyReference.cache
+D:\MAREK\C#\Soneta.ObecnoscDb\Soneta.Template\obj\Debug\net48\Soneta.ObecnoscDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAREK\C#\Soneta.ObecnoscDb\Soneta.Template\obj\Debug\net48\Soneta.ObecnoscDb.AssemblyInfoInputs.cache
+D:\MAREK\C#\Soneta.ObecnoscDb\Soneta.Template\obj\Debug\net48\Soneta.ObecnoscDb.AssemblyInfo.cs
+D:\MAREK\C#\Soneta.ObecnoscDb\Soneta.Template\obj\Debug\net48\Soneta.ObecnoscDb.csproj.CoreCompileInputs.cache
+D:\MAREK\C#\Soneta.ObecnoscDb\bin\Debug\net48\Soneta.ObecnoscDb.dll
+D:\MAREK\C#\Soneta.ObecnoscDb\bin\Debug\net48\Soneta.ObecnoscDb.pdb
+D:\MAREK\C#\Soneta.ObecnoscDb\Soneta.Template\obj\Debug\net48\Soneta.ObecnoscDb.dll
+D:\MAREK\C#\Soneta.ObecnoscDb\Soneta.Template\obj\Debug\net48\Soneta.ObecnoscDb.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Soneta.Sdk">
+  <PropertyGroup>
+    <TargetFramework>$(SonetaTargetFramework)</TargetFramework>
+    <BaseOutputPath>C:\Program Files\Common Files\Soneta\Assemblies</BaseOutputPath>
+  </PropertyGroup>
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy &quot;C:\Program Files\Common Files\Soneta\Assemblies\net48\Soneta.ObecnoscDb.dll&quot; &quot;C:\Program Files\Common Files\Soneta\Assemblies&quot;" />
+  </Target>
+</Project>
