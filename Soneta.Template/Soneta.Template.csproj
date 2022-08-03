@@ -3,10 +3,4 @@
   <PropertyGroup>
     <TargetFramework>$(SonetaTargetFramework)</TargetFramework>
   </PropertyGroup>
-  <ItemGroup>
-    <Folder Include="Forms\" />
-    <Folder Include="Workers\" />
-    <Folder Include="UI\Config\" />
-    <Folder Include="ViewForms\" />
-  </ItemGroup>
 </Project>
